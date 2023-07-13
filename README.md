@@ -79,4 +79,10 @@ pip install pandas
 
 ## Screenshots
 
-1. 
+1. ![Screenshot (66)](https://github.com/Lalitvats2105/Student-Management-System/assets/84177648/ce69a357-8e91-4c07-8fbf-9ae5978f7791)
+2. ![Screenshot (67)](https://github.com/Lalitvats2105/Student-Management-System/assets/84177648/66ee0b9a-5fab-4943-9722-f493927bd9e7)
+3. ![Screenshot (72)](https://github.com/Lalitvats2105/Student-Management-System/assets/84177648/d54910f5-28e4-49e9-9b99-18aec9200e58)
+4. ![Screenshot (73)](https://github.com/Lalitvats2105/Student-Management-System/assets/84177648/40b79264-998d-4216-a16e-22c1ab7de4b1)
+
+
+
